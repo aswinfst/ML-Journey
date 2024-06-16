@@ -23,12 +23,12 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
   - **Completed**: Finished lessons on descriptive statistics, probability distributions, and inferential statistics.
 
 #### Prework
-- [ ] **Watch Introductory Videos**: Completed introductory videos on machine learning.
+- [x] **Watch Introductory Videos**: Completed introductory videos on machine learning.
   - **Resources**:
     - [Google Developers: Introduction to ML](https://developers.google.com/machine-learning/crash-course/ml-intro)
   - **Completed**: Gained an overview of machine learning concepts and real-world applications.
 
-- [ ] **Set Up Python Environment**: Installed necessary software for machine learning.
+- [x] **Set Up Python Environment**: Installed necessary software for machine learning.
   - **Tools**:
     - Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, TensorFlow.
   - **Completed**: Set up the development environment and ran test scripts.
@@ -44,7 +44,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 1: Introduction to Machine Learning
 - [ ] **Watch "Introduction to Machine Learning" Video**
   - **Link**: [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
-  - **Completed**: Learned the basics of machine learning, its types, and applications.
+  - **Complete**: Learned the basics of machine learning, its types, and applications.
 - [ ] **Complete "ML Introduction Quiz"**
   - **Result**: 100%
 - [ ] **Practical Exercise**: Implement a simple classification model.
@@ -53,7 +53,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 2: Framing
 - [ ] **Read "Framing" Article**
   - **Link**: [Framing](https://developers.google.com/machine-learning/crash-course/framing)
-  - **Completed**: Learned how to frame machine learning problems effectively.
+  - **Complete**: Learned how to frame machine learning problems effectively.
 - [ ] **Complete "Framing Quiz"**
   - **Result**: 90%
 - [ ] **Practical Exercise**: Define the problem for a real-world dataset.
@@ -62,7 +62,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 3: Descending into Machine Learning
 - [ ] **Watch "Descending into Machine Learning" Video**
   - **Link**: [Descending into Machine Learning](https://developers.google.com/machine-learning/crash-course/descending-into-ml)
-  - **Completed**: Explored loss functions and gradient descent.
+  - **Complete**: Explored loss functions and gradient descent.
 - [ ] **Complete "Gradient Descent Exercise"**
   - **Result**: Successfully implemented gradient descent.
 - [ ] **Practical Exercise**: Apply gradient descent to a dataset.
@@ -71,7 +71,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 4: First Steps with TensorFlow
 - [ ] **Read "First Steps with TensorFlow" Article**
   - **Link**: [First Steps with TensorFlow](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow)
-  - **Completed**: Set up TensorFlow and created a basic model.
+  - **Complete**: Set up TensorFlow and created a basic model.
 - [ ] **Complete "TensorFlow Basics Exercise"**
   - **Result**: Built and trained a linear regression model.
 - [ ] **Practical Exercise**: Create a model to predict house prices using TensorFlow.
@@ -80,7 +80,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 5: Generalization
 - [ ] **Read "Generalization" Article**
   - **Link**: [Generalization](https://developers.google.com/machine-learning/crash-course/generalization)
-  - **Completed**: Learned about overfitting, underfitting, and improving model generalization.
+  - **Complete**: Learned about overfitting, underfitting, and improving model generalization.
 - [ ] **Complete "Overfitting and Underfitting Exercise"**
   - **Result**: Applied techniques to avoid overfitting.
 - [ ] **Practical Exercise**: Implement regularization to improve model performance.
@@ -89,7 +89,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 6: Training and Testing Sets
 - [ ] **Read "Training and Testing Sets" Article**
   - **Link**: [Training and Testing Sets](https://developers.google.com/machine-learning/crash-course/training-and-test-sets)
-  - **Completed**: Understood the importance of training and testing data splits.
+  - **Complete**: Understood the importance of training and testing data splits.
 - [ ] **Complete "Train/Test Split Exercise"**
   - **Result**: Successfully split data into training and testing sets.
 - [ ] **Practical Exercise**: Evaluate model performance using different data splits.
@@ -98,7 +98,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 7: Validation
 - [ ] **Read "Validation" Article**
   - **Link**: [Validation](https://developers.google.com/machine-learning/crash-course/validation)
-  - **Completed**: Explored model validation techniques.
+  - **Complete**: Explored model validation techniques.
 - [ ] **Complete "Cross-Validation Exercise"**
   - **Result**: Implemented cross-validation to assess model performance.
 - [ ] **Practical Exercise**: Use cross-validation to tune hyperparameters.
@@ -107,7 +107,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 8: Regularization for Simplicity
 - [ ] **Read "Regularization for Simplicity" Article**
   - **Link**: [Regularization for Simplicity](https://developers.google.com/machine-learning/crash-course/regularization-for-simplicity)
-  - **Completed**: Studied techniques for regularization such as L1 and L2.
+  - **Complete**: Studied techniques for regularization such as L1 and L2.
 - [ ] **Complete "Regularization Exercise"**
   - **Result**: Applied L1 and L2 regularization to different models.
 - [ ] **Practical Exercise**: Experiment with different regularization techniques.
@@ -116,7 +116,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 9: Classification
 - [ ] **Read "Classification" Article**
   - **Link**: [Classification](https://developers.google.com/machine-learning/crash-course/classification)
-  - **Completed**: Learned about binary and multi-class classification.
+  - **Complete**: Learned about binary and multi-class classification.
 - [ ] **Complete "Classification Algorithms Exercise"**
   - **Result**: Built and evaluated a logistic regression classifier.
 - [ ] **Practical Exercise**: Implement and compare different classification algorithms.
@@ -125,7 +125,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
 #### Week 10: Conclusion and Next Steps
 - [ ] **Watch "Conclusion and Next Steps" Video**
   - **Link**: [Conclusion and Next Steps](https://developers.google.com/machine-learning/crash-course/conclusion-and-next-steps)
-  - **Completed**: Recapped key concepts and explored future learning opportunities.
+  - **Complete**: Recapped key concepts and explored future learning opportunities.
 - [ ] **Complete "Final Project"**
   - **Result**: Developed a comprehensive project to classify images using a convolutional neural network (CNN).
 - [ ] **Plan Future Learning**: Outlined future goals and additional resources for continued learning in machine learning and data science.
