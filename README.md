@@ -33,7 +33,7 @@ Before starting the Google Machine Learning Crash Course, it's essential to comp
     - Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, TensorFlow.
   - **Completed**: Set up the development environment and ran test scripts.
 
-- [ ] **Review Linear Algebra**: Understand vectors, matrices, and linear transformations.
+- [x] **Review Linear Algebra**: Understand vectors, matrices, and linear transformations.
   - **Resources**:
     - [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [3Blue1Brown: Linear Algebra Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftq3p)
